@@ -4,7 +4,7 @@
   "overview": "A Peer-to-Peer Electronic Cash System",
   "website": "https://bitcoin.org/",
   "whitepaper": "https://bitcoin.org/bitcoin.pdf",
-  "state": "FLOAT",
+  "state": "STEADY FLOAT",
   "published_on": "2009-01-03",
   "links": {
     "blog": "https://bitcoin.org/en/blog"
